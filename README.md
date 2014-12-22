@@ -24,4 +24,3 @@ __Function__
 
 * $dominance->getHEXDominantColor();
 * $dominance->getRGBDominantColor();
-* $dominance->getDominanceFromImageData();
