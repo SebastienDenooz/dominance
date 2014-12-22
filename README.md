@@ -22,9 +22,6 @@ echo $domiance->getDominance();
 
 __Function__
 
-* $dominance->getHEXColor();
-* $dominance->getRGBColor();
-* $dominance->getCMJNColor();
-* $dominance->writeDominanceInformationInEXIF();
-* $dominance->getDominanceFromEXIF();
+* $dominance->getHEXDominantColor();
+* $dominance->getRGBDominantColor();
 * $dominance->getDominanceFromImageData();

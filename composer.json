@@ -1,0 +1,20 @@
+{
+    "name": "mandragoregallery/dominance",
+    "description": "A lightweight library to find the dominant color of an image",
+    "license": "GPL v2",
+    "authors": [
+        {
+            "name": "Sébastien Denooz",
+            "email": "sebastien.denooz@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "ext-gd": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Dominance": "src"
+        }
+    }
+}
